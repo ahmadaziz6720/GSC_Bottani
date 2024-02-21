@@ -48,8 +48,3 @@ Before you start, ensure you have the following installed on your system:
 
 5. **Access the Application**:
    After starting the application, it should be accessible through your web browser or any other appropriate client, depending on the nature of your Node.js application.
-
-
-### Conclusion
-
-You've successfully set up and started your Node.js application using npm. If you encounter any issues or have questions, refer to the project's documentation or seek help from the project maintainers.
